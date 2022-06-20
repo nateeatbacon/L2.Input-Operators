@@ -17,16 +17,17 @@ noun1 = input("Pleas give me a noun: " )
 noun2 = input("Pleas give me a noun: " )
 noun3 = input("Pleas give me a noun: " )
 noun4 = input("Pleas give me a noun: " )
-noun5 = input("Pleas give me a noun: " )
-verb = input("Pleas give me a verb: ")
+nameADisaster = input("Pleas give me a disaster: " )
+person = input("Pleas give me a person: ")
 noun6 = input("Pleas give me a noun: " )
 noun7 = input("Pleas give me a noun: " )
 noun8 = input("Pleas give me a noun: " )
 verb2 = input("Pleas give me a verb: ")
 noun9 = input("Pleas give me a noun: ")
-noun10 = input("Pleas give me a noun: " )
+noun10 = input("Pleas give me a noun: " )#adjective = input("Pleas give me a adjective: ")
 adjective = input("Pleas give me a adjective: ")
-adjective = input("Pleas give me a adjective: ")
-noun,place = input("Pleas give me a noun,place: ")
+place = input("Pleas give me a noun,place: ")
 
-print("")
+print(noun + " and "+noun1 + " wanted to go camping. They neeed a cabin. They decided rent a cabin out of "+noun2 + "and "+noun3+". The next the packed there othere things they would need like "+noun4+". But then "+nameADisaster+ " happends and kills "person+ "
+
+      
