@@ -28,6 +28,6 @@ noun10 = input("Pleas give me a noun: " )#adjective = input("Pleas give me a adj
 adjective = input("Pleas give me a adjective: ")
 place = input("Pleas give me a noun,place: ")
 
-print(noun + " and "+noun1 + " wanted to go camping. They neeed a cabin. They decided rent a cabin out of "+noun2 + "and "+noun3+". The next the packed there othere things they would need like "+noun4+". But then "+nameADisaster+ " happends and kills "person+ "
+print(noun + " and "+noun1 + " wanted to go camping. They neeed a cabin. They decided rent a cabin out of "+noun2 + "and "+noun3+". The next the packed there othere things they would need like "+noun4+". But then "+nameADisaster+ " happends and kills "+person+ ".
 
       
